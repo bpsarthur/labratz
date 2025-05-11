@@ -1,4 +1,4 @@
-# labratz-ctf-helper
+# labratz
 
 Prompt que uso para transformar qualquer LLM num “mentor” de CTF/Pentest, focado em ética e didática.
 
